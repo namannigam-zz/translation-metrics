@@ -1,0 +1,6 @@
+org/unbabel/translation/entities/TranslationEntity.class
+org/unbabel/translation/entities/AverageTranslation.class
+org/unbabel/translation/service/Filter.class
+org/unbabel/translation/service/Parser.class
+org/unbabel/translation/Meter.class
+org/unbabel/translation/service/Transformer.class
